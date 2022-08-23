@@ -1,0 +1,15 @@
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\bin\Debug\net6.0\Combination.exe
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\bin\Debug\net6.0\Combination.deps.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\bin\Debug\net6.0\Combination.runtimeconfig.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\bin\Debug\net6.0\Combination.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\bin\Debug\net6.0\Combination.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\obj\Debug\net6.0\Combination.csproj.AssemblyReference.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\obj\Debug\net6.0\Combination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\obj\Debug\net6.0\Combination.AssemblyInfoInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\obj\Debug\net6.0\Combination.AssemblyInfo.cs
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\obj\Debug\net6.0\Combination.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\obj\Debug\net6.0\Combination.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\obj\Debug\net6.0\refint\Combination.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\obj\Debug\net6.0\Combination.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\obj\Debug\net6.0\Combination.genruntimeconfig.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\Combination\obj\Debug\net6.0\ref\Combination.dll
